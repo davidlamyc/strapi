@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_component_headers",
+  "info": {
+    "name": "header",
+    "icon": "arrow-circle-up"
+  },
+  "options": {},
+  "attributes": {
+    "logo": {
+      "type": "string"
+    },
+    "route_1": {
+      "type": "string"
+    },
+    "route_2": {
+      "type": "string"
+    }
+  }
+}
